@@ -1481,7 +1481,7 @@
     file-loader "^6.0.0"
     url-loader "^4.1.0"
 
-"@neutrinojs/jest@^9.5.0":
+"@neutrinojs/jest@9.5.0":
   version "9.5.0"
   resolved "https://registry.yarnpkg.com/@neutrinojs/jest/-/jest-9.5.0.tgz#181fe48ae11fe07be6b24b49e00c1479cf6b7835"
   integrity sha512-6s9bSfXtWVAtAIn/1lyFmOycDmV8SklgrMiLvhBB4ZoJWm1+JWaG5S44k0pMNewY8NPmPKVxkL+Kqofqvar0Og==
@@ -1545,7 +1545,7 @@
     mkdirp "^1.0.4"
     rimraf "^3.0.2"
 
-"@pollyjs/adapter-fetch@^5.1.0":
+"@pollyjs/adapter-fetch@5.1.0":
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/@pollyjs/adapter-fetch/-/adapter-fetch-5.1.0.tgz#b25cec1d9560bca70d87a6dc9066c296d2a46770"
   integrity sha512-oij8WzZm7zSV7B49OFQaBkYqVTnxL4q3ykwwL9TwT/yntR370Ewh7g/k1nRJs1ZX3uKxKLPkFn5WkwhR07dDrw==
@@ -1555,7 +1555,7 @@
     detect-node "^2.0.4"
     to-arraybuffer "^1.0.1"
 
-"@pollyjs/adapter-node-http@^5.1.0":
+"@pollyjs/adapter-node-http@5.1.0":
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/@pollyjs/adapter-node-http/-/adapter-node-http-5.1.0.tgz#5bad8e21aeae7fc630bc2aa92be1385e4a77b456"
   integrity sha512-3G2oYzSrHOGkHhDST/s3zj0luR6nQUfuLkZekYpNBNTIDZIreaOlNiwG7DAqB1YboGxFeQWKTMoqYu33cK2qYA==
@@ -1565,7 +1565,7 @@
     lodash-es "^4.17.11"
     nock "^12.0.3"
 
-"@pollyjs/adapter-puppeteer@^5.1.0":
+"@pollyjs/adapter-puppeteer@5.1.0":
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/@pollyjs/adapter-puppeteer/-/adapter-puppeteer-5.1.0.tgz#c6a4ad35bfb3d1c1a41743e403b086e2a1490d0b"
   integrity sha512-Ni5RZpyhnNuFE48l1AB9s/kaN/FaNlcd3VZO6iTyPsUi5d1dpiDDONcUKw98HhtIDCs710/DgFBy/2r67t1g7Q==
@@ -1580,7 +1580,7 @@
   dependencies:
     "@pollyjs/utils" "^5.0.0"
 
-"@pollyjs/core@^5.1.0":
+"@pollyjs/core@5.1.0":
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/@pollyjs/core/-/core-5.1.0.tgz#6a4233ffe27dcd789bd6f31265451b35c24e090f"
   integrity sha512-t29uNtc8Jq9MX3md+QgsfDtmsad9zLfKWiH33JdJjSilETWGPoq90xuMmWSXoXQCfIEVhIQ9rPEIvcmFpyqGCg==
@@ -1608,7 +1608,7 @@
     morgan "^1.9.1"
     nocache "^2.1.0"
 
-"@pollyjs/persister-fs@^5.0.0":
+"@pollyjs/persister-fs@5.0.0":
   version "5.0.0"
   resolved "https://registry.yarnpkg.com/@pollyjs/persister-fs/-/persister-fs-5.0.0.tgz#eaa1d4a672a9920b93c9238870aa899149f748d0"
   integrity sha512-ju75JJ6sSJ/q68rB74wxIlvXCq/riuCqW3pS/Ucd4SFfks/HxXxM3yGTHn0Qq5SrmY9cYbQFfpOz0WCNDIqr+A==
@@ -6775,7 +6775,7 @@ jest-environment-node@^26.6.2:
     jest-mock "^26.6.2"
     jest-util "^26.6.2"
 
-jest-environment-puppeteer@^4.4.0:
+jest-environment-puppeteer@4.4.0, jest-environment-puppeteer@^4.4.0:
   version "4.4.0"
   resolved "https://registry.yarnpkg.com/jest-environment-puppeteer/-/jest-environment-puppeteer-4.4.0.tgz#d82a37e0e0c51b63cc6b15dea101d53967508860"
   integrity sha512-iV8S8+6qkdTM6OBR/M9gKywEk8GDSOe05hspCs5D8qKSwtmlUfdtHfB4cakdc68lC6YfK3AUsLirpfgodCHjzQ==
@@ -6901,7 +6901,7 @@ jest-pnp-resolver@^1.2.2:
   resolved "https://registry.yarnpkg.com/jest-pnp-resolver/-/jest-pnp-resolver-1.2.2.tgz#b704ac0ae028a89108a4d040b3f919dfddc8e33c"
   integrity sha512-olV41bKSMm8BdnuMsewT4jqlZ8+3TCARAXjZGT9jcoSnrfUnRCqnMoF9XEeoWjbzObpqF9dRhHQj0Xb9QdF6/w==
 
-jest-puppeteer@^4.4.0:
+jest-puppeteer@4.4.0:
   version "4.4.0"
   resolved "https://registry.yarnpkg.com/jest-puppeteer/-/jest-puppeteer-4.4.0.tgz#4b906e638a5e3782ed865e7b673c82047b85952e"
   integrity sha512-ZaiCTlPZ07B9HW0erAWNX6cyzBqbXMM7d2ugai4epBDKpKvRDpItlRQC6XjERoJELKZsPziFGS0OhhUvTvQAXA==
@@ -8669,7 +8669,7 @@ path-type@^3.0.0:
   dependencies:
     pify "^3.0.0"
 
-path@^0.12.7:
+path@0.12.7:
   version "0.12.7"
   resolved "https://registry.yarnpkg.com/path/-/path-0.12.7.tgz#d4dc2a506c4ce2197eb481ebfcd5b36c0140b10f"
   integrity sha1-1NwqUGxM4hl+tIHr/NWzbAFAsQ8=
@@ -9039,7 +9039,7 @@ punycode@^2.1.0, punycode@^2.1.1:
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
   integrity sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==
 
-puppeteer@^8.0.0:
+puppeteer@8.0.0:
   version "8.0.0"
   resolved "https://registry.yarnpkg.com/puppeteer/-/puppeteer-8.0.0.tgz#a236669118aa795331c2d0ca19877159e7664705"
   integrity sha512-D0RzSWlepeWkxPPdK3xhTcefj8rjah1791GE82Pdjsri49sy11ci/JQsAO8K2NRukqvwEtcI+ImP5F4ZiMvtIQ==
@@ -10145,7 +10145,7 @@ setprototypeof@1.1.1:
   resolved "https://registry.yarnpkg.com/setprototypeof/-/setprototypeof-1.1.1.tgz#7e95acb24aa92f5885e0abef5ba131330d4ae683"
   integrity sha512-JvdAWfbXeIGaZ9cILp38HntZSFSo3mWg6xGcJJsd+d4aRMOqauag1C63dJfDw7OaMYwEbHMOxEZ1lqVRYP2OAw==
 
-setup-polly-jest@^0.9.1:
+setup-polly-jest@0.9.1:
   version "0.9.1"
   resolved "https://registry.yarnpkg.com/setup-polly-jest/-/setup-polly-jest-0.9.1.tgz#2bf0437c4e5201071b9fdee14c61fb67f0b6e886"
   integrity sha512-BbOxCvMnDHAPG9e3Qw3Ol4/ZWLwnDnhODqrfiIpAtF7Azu0O3PI4svZIfsh+/EV9xNj15LMkvchaWsDvF4A3hQ==
